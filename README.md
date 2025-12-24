@@ -1,0 +1,1 @@
+A modern, responsive landing page built using HTML, Tailwind CSS, and a small amount of JavaScript. This project demonstrates responsive layouts, reusable UI sections, and mobile-first design using utility-first CSS.
